@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "L.L.L.",
+  "base_artist": "MYTH & ROID",
+  "createdAt": "2025-12-27T07:09:46.140510Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "L.L.L.",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/01_L.L.L._MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "L.L.L.",
+      "artist": "Myth & Roid",
+      "has_synced": true,
+      "path": "select/02_L.L.L._Myth_&_Roid.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "L.L.L.L. (Love Life Live Large)",
+      "artist": "Dizzee Rascal feat. Chip",
+      "has_synced": true,
+      "path": "select/03_L.L.L.L._(Love_Life_Live_Large)_Dizzee_Rascal_feat._Chip.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "L.L.L.L. (Love Life Live Large)",
+      "artist": "Dizzee Rascal",
+      "has_synced": true,
+      "path": "select/04_L.L.L.L._(Love_Life_Live_Large)_Dizzee_Rascal.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "L.L.L. (From \"Overlord\")",
+      "artist": "Selphius",
+      "has_synced": false,
+      "path": "select/05_L.L.L._(From__Overlord_)_Selphius.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "L.L.L. (From \"Overlord\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/06_L.L.L._(From__Overlord_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "L.L.L. (From \"Overlord\") [censored ver]",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/07_L.L.L._(From__Overlord_)_[censored_ver]_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "L.L.L. (dj-Jo Remix)",
+      "artist": "dj-Jo feat. Un3h",
+      "has_synced": false,
+      "path": "select/08_L.L.L._(dj-Jo_Remix)_dj-Jo_feat._Un3h.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "L.L.L. (Feat. Un3h) [dj-Jo Remix]",
+      "artist": "dj-Jo",
+      "has_synced": false,
+      "path": "select/09_L.L.L._(Feat._Un3h)_[dj-Jo_Remix]_dj-Jo.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "L.L.L. (dj-Jo Remix) [Instrumental]",
+      "artist": "Dj-Jo",
+      "has_synced": false,
+      "path": "select/10_L.L.L._(dj-Jo_Remix)_[Instrumental]_Dj-Jo.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "L.L.L. (From \"Overlord\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/11_L.L.L._(From__Overlord_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "L.L.L.",
+      "artist": "Selphius",
+      "has_synced": true,
+      "path": "select/12_L.L.L._Selphius.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "L.L.L.",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/13_L.L.L._MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "L! L! L! (Love the Life We Live)",
+      "artist": "虹ヶ咲学園スクールアイドル同好会",
+      "has_synced": true,
+      "path": "select/14_L!_L!_L!_(Love_the_Life_We_Live)_虹ヶ咲学園スクールアイドル同好会.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "L！L！L！ (Love the Life We Live)",
+      "artist": "虹ヶ咲学園スクールアイドル同好会",
+      "has_synced": true,
+      "path": "select/15_L!L!L!_(Love_the_Life_We_Live)_虹ヶ咲学園スクールアイドル同好会.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "L.L.L.",
+      "artist": "MYTH & ROID",
+      "has_synced": false,
+      "path": "select/pl_01_L.L.L._MYTH_&_ROID.txt"
+    }
+  ]
+}
